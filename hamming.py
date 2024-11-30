@@ -1,4 +1,4 @@
-f = open('input2.txt', 'r').readline().strip(' ')
+'''f = open('input2.txt', 'r').readline().strip(' ')
 x_list = [int(i) for i in f]  #Преобразуем строку в список чисел
 
 #Добавляем контрольные биты, т.е. дописываем нули
@@ -124,3 +124,5 @@ else:
   #file.close()
 
 #print('\n', 'Это все продублировано в файле recevied.txt')
+'''
+print('Hello, world')
